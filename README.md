@@ -50,8 +50,18 @@
 
 この辺のテキストを読む必要がありそう。
 
+- [react template][react template]
+
+ここにテンプレート集があるので、見てみる
+
+- [ts sample][ts sample]
+
+ここにTSでのサンプルがあるので、見てみる
+
 <!-- link -->
 [UIコンポーネントにマージンを付けるな]: https://zenn.dev/ryusou/articles/why-margin-component
 [React余白]: https://zenn.dev/seya/articles/09545c7503baa4
 [mui get start]: https://mui.com/system/getting-started/
 [mui spacing]: https://mui.com/system/spacing/
+[react template]: https://mui.com/material-ui/getting-started/templates/
+[ts sample]: https://github.com/mui/material-ui/tree/master/examples/material-cra-ts
